@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile development 
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on developing new mobile Apps as I have experince in backend and web APIs and sql DBs
-- 📫 How to reach me ...
+- 📫 You contact me by email  Abousrea@Gmail.com
 
 <!---
 Abousrea/Abousrea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
